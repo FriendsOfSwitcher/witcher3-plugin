@@ -1,0 +1,14 @@
+game: "The Witcher 3: Wild Hunt"
+api: 1
+steamID: 292030
+uid: com.thegreatcabbage.witcher3
+author: TheGreatCabbage
+pluginDirectory: "witcher3"
+
+graphicsConfig: TODO
+
+gameDirectory: 
+  - "The Witcher 3 Wild Hunt GOTY"
+  - "The Witcher 3 Wild Hunt"
+verificationPaths:
+  - bin/x64/witcher3.exe
