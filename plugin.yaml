@@ -3,7 +3,9 @@ api: 1
 steamID: 292030
 uid: com.thegreatcabbage.witcher3
 author: TheGreatCabbage
-pluginDirectory: "witcher3"
+packageName: "witcher3"
+features:
+  - "graphics"
 
 graphicsConfig: TODO
 
