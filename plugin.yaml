@@ -6,8 +6,12 @@ author: TheGreatCabbage
 packageName: "witcher3"
 features:
   - "graphics"
+  - "keymaps"
+  - "saves"
 
-graphicsConfig: TODO
+graphicsConfig: $!DOCUMENTS/The Witcher 3/user.settings
+keymapConfig: $!DOCUMENTS/The Witcher 3/
+saves: $!DOCUMENTS/The Witcher 3/gamesaves
 
 gameDirectory: 
   - "The Witcher 3 Wild Hunt GOTY"
