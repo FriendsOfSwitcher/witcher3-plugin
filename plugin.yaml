@@ -10,7 +10,7 @@ features:
   - "saves"
 
 graphicsConfig: $!DOCUMENTS!$/The Witcher 3/user.settings
-keymapConfig: $!DOCUMENTS!$/The Witcher 3/
+keymapConfig: $!DOCUMENTS!$/The Witcher 3/input.settings
 saves: $!DOCUMENTS!$/The Witcher 3/gamesaves
 
 gameDirectory: 
