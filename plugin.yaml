@@ -11,9 +11,9 @@ features:
 
 graphicsConfig: $!DOCUMENTS!$/The Witcher 3/user.settings
 keymapConfig: $!DOCUMENTS!$/The Witcher 3/input.settings
-saves: $!DOCUMENTS!$/The Witcher 3/gamesaves
+savesFolder: $!DOCUMENTS!$/The Witcher 3/gamesaves
 
-gameDirectory: 
+gameDirectory:
   - "The Witcher 3 Wild Hunt GOTY"
   - "The Witcher 3 Wild Hunt"
 verificationPaths:
